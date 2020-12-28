@@ -1,6 +1,6 @@
 # Wumpus World
 
-This is the final project for CISC6525 Artificial Intelligence, Fall 2020.
+This is the final project for CISC6525 Artificial Intelligence, Fall 2020. Classic AI problem Wumpus World. An implementation with python using propositional logic, truth table enumeration, and search.
 
 The wwagent.py is for the agent. Please read the comments for detailed algorithms.
 
